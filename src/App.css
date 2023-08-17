@@ -1,0 +1,66 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+} */
+
+body{
+  background-color: rgb(18, 17, 17);
+  color: rgb(251, 249, 249);
+  background-image: url(../public/giphy.gif);
+  background-size: 20rem;
+  background-repeat: no-repeat;
+  background-position: top right;
+ 
+  
+}
+
+
+img{
+  width:20%;
+}
+audio{
+  /* margin-left:65% ; */
+  padding-bottom: 2%;
+  background-color: rgb(37, 36, 36);
+}
+/* input:not([type="range"]):not([type="color"]) {
+  writing-mode: horizontal-tb !important;
+  margin-left: 1200px;
+  /* margin-bottom: 2px; */
+  /* margin-top: 20px;
+} */
+
